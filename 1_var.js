@@ -1,4 +1,4 @@
-console.log(a); // undefined
+console.log(a); // undefined (호이스팅)
 
 var a = 1;
 
